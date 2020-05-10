@@ -11,4 +11,9 @@ public class myClass
     {
 
     }
+
+    public void Test1()
+    {
+        
+    }
 }

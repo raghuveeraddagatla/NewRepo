@@ -7,6 +7,7 @@ public class ThisIsMyclass
 
     public ThisIsMyclass()
     {
-        
+        int i =0;
+
     }
 }

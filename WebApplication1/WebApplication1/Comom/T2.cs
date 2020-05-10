@@ -4,5 +4,9 @@ using System.IO;
 
 public class ThisIsMyclass
 {
-    
+
+    public ThisIsMyclass()
+    {
+        
+    }
 }
